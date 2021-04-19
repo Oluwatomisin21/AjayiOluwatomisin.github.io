@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/Oluwatomisin21/AjayiOluwatomisin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">`
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ajayi Oluwatomisin</title>
+    <link>
+    <link rel="html" type="text/css" href="experience.html">
+    <link rel="html" type="text/css" href="contact.html">
+    <link href="css/style.css" rel="stylesheet">
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <header>
+        <div id="logo">
+            <h1>Ajayi Oluwatomisin</h1>
+            <h6 class="focus">Blockchain & Cybersecurity</h6>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="about.html">About</a></li>
+                <li><a href="experience.html">Experience</a></li>
+                <li><a href="contact.html">Contact</a></li><br>
+            </ul>
+        </nav>
+    </header>
+    <div class="main-body">
+        <article>
+            <p><img src="image/ajayi.png" alt="ajayi" title="ajayi" width="100" height="120" class="float-right">
+                <h2>About Me
+                </h2>
+            </p>
+            <p>I am a Blockchain and Cybersecurity Expert a consultant and a researcher. I have a post graduates Diploma in Datascience and technical Leadership from the first african leadership university, I am currently Blockchain lead at Martian Network
+                Netherlands a start-up Blockchain company focus on using blockchain technology for efficient Video delivery. I am also supporting other upcomng Blockchain project.</p>
+            <p>I have worked as an I.T analyst at GE, where I worked to deliver I.T enabling solutions by integrating multiple system and reconciling business needs, designing efficient I.T system to meet business and technology needs overseeing I.T projects.
+                A graduate of Electrical and Electronics Engineering. an IBM certified enterprise design thinking (practitioner). enabling process delivery and system implementation with deep empathy for user-centric experience. An enthusiastic problem
+                solver that welcome new tasks and challenges. With strong leadership and project management ability. I developed a very strong passion and interest for Blockchain technology, currently I am identifying strong business used cases and leading
+                the learning and development of blockchain technology arm for GE Gas power </p>
+        </article>
+        <article>
+            <h2>About me Outside work</h2>
+            <p>I am a devote believer in the Yeshua with a daily committment to purity of life an purpose, I believe that Yeshua came from Heaven and died to save Humanity from sin. I love to Travel, I also love, I love to code at my liesure time I am Am
+                passionate and committed to social justice & integrity, I love giving back to my community,Because this is where I was made.
+            </p>
+        </article>
+        <br><br>
+        <!-- <section>A group of related content</section>
+        <aside>Sidebar</aside> -->
+    </div>
+    <footer>
+        <p>&copy; Ajayi Oluwatomisin</p>
+        <address>Contact <a href="mailto:petertomisin@gmail.com">me</a></address>
+        <address>Github <a href="https://github.com/Oluwatomisin21">github page</a></address>
+        <address>LinkedIn <a href="https://www.linkedin.com/in/peter-o-ajayi-91b32411b/">LinkedIn</a></address>
+        </addre>
+    </footer>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    </a>
+</body>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Oluwatomisin21/AjayiOluwatomisin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
